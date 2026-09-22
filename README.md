@@ -14,4 +14,4 @@ Successfully completed Java Programming Training during
 Successfully completed **MongoDB Overview: Core Concepts and Architecture**
 on **September 22, 2026**.
 
-📄 [View MongoDB Certificate](./MongoDB-Overview-Certificate.jpg)
+📄 [View MongoDB Certificate](./MongoDB-Overview-Certificate.jpeg)
