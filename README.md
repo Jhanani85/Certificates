@@ -15,3 +15,12 @@ Successfully completed **MongoDB Overview: Core Concepts and Architecture**
 on **September 22, 2026**.
 
 📄 [View MongoDB Certificate](./MongoDB-Overview-Certificate.jpeg)
+
+---
+
+### 📊 Microsoft Excel
+
+Successfully completed the **Free Excel Certification Course Online**
+from Intellipaat Academy.
+
+📄 [View Microsoft Excel Certificate](./Microsoft-Excel-Certificate.jpeg)
